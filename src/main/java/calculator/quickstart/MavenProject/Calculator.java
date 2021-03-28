@@ -27,7 +27,7 @@ return a - b;
 * Multiply method.
 */
 public long multiply(int a, int b) {
-return a * b;
+return a + b;
 }
 
 /**
